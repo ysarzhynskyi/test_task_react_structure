@@ -1,11 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-class Item extends React.Component {
-  render() {
-    const { text } = this.props;
+import './style.css'
 
-    return <div>{text}</div>
-  }
-}
+const Item = ({ text, onClick = () => {} }) => (
+  <div className="item" onClick={onClick}>{text}</div>
+)
 
-export default Item;
+export default Item

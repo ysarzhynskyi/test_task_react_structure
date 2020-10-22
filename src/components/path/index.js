@@ -1,11 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-class Path extends React.Component {
-  render() {
-    const { text } = this.props;
+import './style.css'
 
-    return <div>{text}</div>
-  }
-}
+const Path = ({text}) => (
+  <div className="path">{text}</div>
+)
 
-export default Path;
+export default Path

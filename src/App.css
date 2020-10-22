@@ -1,3 +1,15 @@
 .App {
   padding: 20px;
 }
+
+.items {
+  padding: 5px;
+}
+
+.items > .children {
+  padding-left: 0;
+}
+
+.children {
+  padding: 10px 30px;
+}

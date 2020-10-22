@@ -1,0 +1,9 @@
+.item {
+  border: 1px solid #a0a0a0;
+  padding: 5px;
+  max-width: 300px;
+}
+
+.item:hover {
+  background: #dfdfdf;
+}

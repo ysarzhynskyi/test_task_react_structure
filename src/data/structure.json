@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "text": "Computers"
+  },
+  {
+    "id": 2,
+    "text": "Electronics"
+  },
+  {
+    "id": 3,
+    "text": "Automotive"
+  },
+  {
+    "id": 4,
+    "text": "Baby"
+  },
+  {
+    "id": 5,
+    "text": "Monitors",
+    "parent_id": 1
+  },
+  {
+    "id": 6,
+    "text": "Printers",
+    "parent_id": 1
+  },
+  {
+    "id": 7,
+    "text": "Scanners",
+    "parent_id": 1
+  },
+  {
+    "id": 8,
+    "text": "Camera & Photo",
+    "parent_id": 2
+  },
+  {
+    "id": 9,
+    "text": "Cell Phones",
+    "parent_id": 2
+  },
+  {
+    "id": 10,
+    "text": "GPS & Navigation",
+    "parent_id": 2
+  },
+  {
+    "id": 11,
+    "text": "Headphones",
+    "parent_id": 2
+  },
+  {
+    "id": 12,
+    "text": "Car Care",
+    "parent_id": 3
+  },
+  {
+    "id": 13,
+    "text": "Exterior Accessories",
+    "parent_id": 3
+  },
+  {
+    "id": 14,
+    "text": "Interior Accessories",
+    "parent_id": 3
+  },
+  {
+    "id": 15,
+    "text": "Oils & Fluids",
+    "parent_id": 3
+  }
+]

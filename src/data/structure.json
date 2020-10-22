@@ -69,5 +69,15 @@
     "id": 15,
     "text": "Oils & Fluids",
     "parent_id": 3
+  },
+  {
+    "id": 16,
+    "text": "Accessories",
+    "parent_id": 8
+  },
+  {
+    "id": 17,
+    "text": "Bags & Cases",
+    "parent_id": 8
   }
 ]
